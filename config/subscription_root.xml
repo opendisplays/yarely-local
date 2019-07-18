@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<content-set name="e-Campus Display" type="inline">
+  <content-set name="Channel Content" type="remote">
+    <requires-file>
+      <sources>
+        <uri refresh="1 min">https://URITOREMOTECDS</uri>
+      </sources>
+    </requires-file>
+  </content-set>
+</content-set>
